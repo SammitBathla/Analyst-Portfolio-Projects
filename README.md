@@ -1,6 +1,6 @@
 # Analyst-Portfolio-Projects
 
-**Power BI **
+**Power BI**
 
 **Visualizations-Apocolypse-Food-Prep**
 
